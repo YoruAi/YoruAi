@@ -26,4 +26,8 @@ Wait to add...
 
 ## 
 
+「只要美好的希望在目的地，那么离别也只是通往幸福的过程」
+
+---
+
 <img src="https://img.shields.io/badge/GitHub-YoruAi-%23181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Email-2085509323@qq.com-%23D14836?style=flat-square&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/QQ-2085509323-%2312B7F5?style=flat-square&logo=tencent-qq&logoColor=white">
