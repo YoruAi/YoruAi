@@ -18,11 +18,10 @@
 </div>
 
 
-
 ## Projects & Research
 
 Wait to see...
 
 ## 
 
-<img src="https://img.shields.io/badge/X-%40YoruAi-1DA1F2?style=flat-square&logo=x&logoColor=white"><img src="https://img.shields.io/badge/GitHub-YoruAi-%23181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Email-2085509323@qq.com-%23D14836?style=flat-square&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/QQ-2085509323-%2312B7F5?style=flat-square&logo=tencent-qq&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-YoruAi-%23181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Email-2085509323@qq.com-%23D14836?style=flat-square&logo=microsoft-outlook&logoColor=white"><img src="https://img.shields.io/badge/QQ-2085509323-%2312B7F5?style=flat-square&logo=tencent-qq&logoColor=white">
