@@ -19,6 +19,8 @@ Wait to add...
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoruAi&layout=compact&theme=transparent" alt="Top Langs" style="width: 41%;">
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/a043e842-cadf-4159-83cf-53e58cb1748b.svg)](https://wakatime.com/@a043e842-cadf-4159-83cf-53e58cb1748b)
+
 
 ## Projects & Research
 
